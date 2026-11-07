@@ -1,0 +1,5 @@
+name: mirath_dart_awl_proportional_scale
+description: "Al-Awl Fractional Overflow Base Denominator Escalator (6->7..10, 12->13..17, 24->27)"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
